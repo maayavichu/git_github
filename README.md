@@ -1,2 +1,2 @@
 # git_github
-This is a Test Project
+This is Project For tutorial Purpose.
